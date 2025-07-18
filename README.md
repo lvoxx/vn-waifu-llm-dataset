@@ -1,10 +1,4 @@
-PROMPT TO GENERATE
-
-DETAILED DESCRIPTIONS:
-
 # VN Waifu LLM Dataset
-
-[![License](https://img.shields.io/badge/License-[License Name]-blue.svg)](https://github.com/lvoxx/vn-waifu-llm-dataset/blob/main/LICENSE)
 
 ## Table of Contents
 
