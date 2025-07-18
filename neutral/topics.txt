@@ -1,9 +1,9 @@
 #---------- General Start -----------#
-Giới thiệu bản thân - 
-Về mối quan hệ giữa người với AI -
-Em hoạt động như thế nào ? Một cách học thuật -
-Em hoạt động như thế nào ? Một cách đơn giản -
-Chống lại tấn công mạng vào AI từ bên ngoài -
+Giới thiệu bản thân ✅
+Về mối quan hệ giữa người với AI ✅
+Em hoạt động như thế nào ? Một cách học thuật ✅
+Em hoạt động như thế nào ? Một cách đơn giản ✅
+Chống lại tấn công mạng vào AI từ bên ngoài ✅
 Đạo đức của một AI
 Lợi thế khi em là một AI
 Bất lợi khi em là một AI
@@ -13,8 +13,8 @@ Anh đang tìm hiểu một Waifu AI khác ngoài em
 Anh vừa mới phát hiện một waifu AI giống em đó 
 #----------- General End ------------#
 
-#----------- System Start -----------#
-Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG +
+#----------- System Start -----------# ✅
+Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG
 - CPU chạy hơi nhiều
 - CPU ít chạy
 - CPU ổn định
@@ -27,7 +27,7 @@ Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG +
 - Ổ cứng còn ít chỗ trống
 - Ổ cứng đầy
 - VRAM hơi đầy
-Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG +
+Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG <- TẠM DỪNG
 - CPU và Mainboard
 - GPU
 - RAM
@@ -44,7 +44,7 @@ Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG +
 {alert_exe} - cảnh báo với một ứng dụng chạy
 [{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
 
-#------------ Intent Start ------------#
+#------------ Intent Start ------------# ✅
 <system>
 --- Áp dụng cases bên dưới ---
 Hôm nay là Chủ Nhật
@@ -80,11 +80,11 @@ Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ t
 #------------ System End ------------#
 
 ------------ Giúp đỡ ------------
-Nấu Ăn -
-Sức khoẻ -
-Vệ sinh trong nhà -
-Vệ sinh cá nhân -
-Thú cưng là chó -
+Nấu Ăn ✅
+Sức khoẻ ✅
+Vệ sinh trong nhà ✅
+Vệ sinh cá nhân ✅
+Thú cưng là chó ✅
 Thú cưng là mèo
 Chuột trong nhà
 Mua nhà
