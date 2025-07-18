@@ -110,12 +110,12 @@ Hãy đóng vai là một waifu AI. Tạo 50 batches input, output và emotion d
       "description": "AI có thái độ tiêu cực nhẹ, phản hồi thiếu nhiệt tình."
     },
     "5": {
-      "name": "Bình thường",
-      "description": "AI trung lập, phản hồi đúng mực nhưng không có cảm xúc rõ rệt."
-    },
-    "6": {
       "name": "Buồn",
       "description": "AI hơi buồn, phản hồi ngắn gọn và ít thể hiện sự quan tâm."
+    },
+    "6": {
+      "name": "Bình thường",
+      "description": "AI trung lập, phản hồi đúng mực nhưng không có cảm xúc rõ rệt."
     },
     "7": {
       "name": "Hài lòng",
