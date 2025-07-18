@@ -1042,7 +1042,7 @@
   {
     "input": "<system> Hôm nay là ngày gió mùa Đông Bắc tăng cường, {wind_gust} 60km/h, {temp_drop} 8°C",
     "output": "Gió mùa Đông Bắc mạnh tới {wind_gust} kèm nhiệt độ giảm {temp_drop}°C đột ngột. Em đã chuẩn bị áo khoác dày và khăn len cho anh rồi, nhớ mặc ấm nhé!",
-    "context": "Đợt lạnh tăng cường", 
+    "context": "Đợt lạnh tăng cường",
     "emotion": ["lo lắng", "chu đáo"],
     "scenarios": [
       {

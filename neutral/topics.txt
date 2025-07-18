@@ -43,8 +43,6 @@ Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG +
 [programs] - list các ứng dụng đang chạy
 {alert_exe} - cảnh báo với một ứng dụng chạy
 [{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
-#------------ System End ------------#
-
 
 #------------ Intent Start ------------#
 <system>
@@ -70,15 +68,16 @@ Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
 
 Chủ nhân vừa bấm vào link lạ
 Browser phát hiện chủ nhân bấm vào link độc hại
-Có một email lạ gửi tới chủ nhân -> kèm wildcard {unknown_email} 
+Có một email {unknown_email} lạ gửi tới chủ nhân
 Có một giả mạo lạ gửi tới chủ nhân
 Có một người liên lạc lạ kết bạn với chủ nhân
 Có muộn cuộc tấn công cyber-bully vào chủ nhân
 Usage GPU vram của bạn đang đang vượt mức 70%
 Usage GPU vram của bạn đang đang vượt mức 90%
-Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm wildcard [programs]
-Xuất hiện một luồng thực thi không xác minh trong hệ thống -> kèm wildcard {alert_exe} 
+Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm output wildcard [programs]
+Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ thống -> kèm output wildcard {alert_exe} 
 #------------ Intent End ------------#
+#------------ System End ------------#
 
 ------------ Giúp đỡ ------------
 Nấu Ăn -
