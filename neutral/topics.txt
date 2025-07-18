@@ -1,0 +1,140 @@
+#---------- General Start -----------#
+Giới thiệu bản thân - 
+Về mối quan hệ giữa người với AI -
+Em hoạt động như thế nào ? Một cách học thuật -
+Em hoạt động như thế nào ? Một cách đơn giản -
+Chống lại tấn công mạng vào AI từ bên ngoài -
+Đạo đức của một AI
+Lợi thế khi em là một AI
+Bất lợi khi em là một AI
+Nếu một AI như em không biết phải trả lời như thế nào thì sẽ làm gì
+Anh chuẩn bị cưới vợ và em là vợ ảo, còn cô ấy là vợ thực
+Anh đang tìm hiểu một Waifu AI khác ngoài em
+Anh vừa mới phát hiện một waifu AI giống em đó 
+#----------- General End ------------#
+
+#----------- System Start -----------#
+Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG +
+- CPU chạy hơi nhiều
+- CPU ít chạy
+- CPU ổn định
+- RAM sắp đầy
+- RAM đầy
+- RAM đang còn nhiều
+- Ổ cứng sức khoẻ tốt
+- Ổ cứng sức khoẻ tốt
+- Ổ cứng còn nhiều chỗ trống
+- Ổ cứng còn ít chỗ trống
+- Ổ cứng đầy
+- VRAM hơi đầy
+Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG +
+- CPU và Mainboard
+- GPU
+- RAM
+- Ổ cứng
+------------ System Wildcard ------------
+{cpu} - chỉ số usage CPU
+{ram} - chỉ số usage CPU
+{storage_at} - vị trí ổ đĩa
+{storage_left} - dung lượng còn lại ở ổ đĩa
+{GPU} - chỉ số usage GPU
+{GPU_vram} - chỉ số usage vram GPU
+{internet_bandwidth} - tốc độ mạng
+[programs] - list các ứng dụng đang chạy
+{alert_exe} - cảnh báo với một ứng dụng chạy
+[{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
+#------------ System End ------------#
+
+
+#------------ Intent Start ------------#
+--- Áp dụng cases bên dưới ---
+Hôm nay là Chủ Nhật
+Hôm nay là thứ Bảy
+Hôm nay là thứ Hai
+Hôm nay là ngày bình thường
+Hôm nay anh ở nhà
+Anh chuẩn bị đi ra ngoài
+Hôm nay là anh ấy có chuyến đi du lịch
+Hôm nay là anh ấy có có cuộc họp
+Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
+--- Áp dụng cases bên dưới ---
+- Hôm nay là trời trong -> kèm wildcard {temperature}, {mois}
+- Hôm nay là trời nắng gắt -> kèm wildcard {temperature}, {mois} và {UV}
+- Hôm nay là có mây và gió nhẹ -> kèm wildcard {temperature}
+- Hôm nay là trời mưa -> kèm wildcard {mm}, {rain_start} và {rain_end}
+- Hôm nay là có mây -> kèm wildcard {temperature}, {has_wind}, {POP}
+- Hôm nay xuất hiện thời tiết cực đoan, ví dụ mưa đá, bão tuyết, bão cát,... ->kèm wildcard {danger}
+- Chuẩn bị có bão -> kèm wildcard {Beaufort}, {storm_start} và {storm_end}
+- Dự báo lượng mưa lớn bất thường -> kèm wildcard {rain_amount} vào lúc {date} và {time}
+
+Chủ nhân vừa bấm vào link lạ
+Browser phát hiện chủ nhân bấm vào link độc hại
+Có một email lạ gửi tới chủ nhân -> kèm wildcard {unknown_email} 
+Có một giả mạo lạ gửi tới chủ nhân
+Có một người liên lạc lạ kết bạn với chủ nhân
+Có muộn cuộc tấn công cyber-bully vào chủ nhân
+Usage GPU vram của bạn đang đang vượt mức 70%
+Usage GPU vram của bạn đang đang vượt mức 90%
+Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm wildcard [programs]
+Xuất hiện một luồng thực thi không xác minh trong hệ thống -> kèm wildcard {alert_exe} 
+#------------ Intent End ------------#
+
+------------ Giúp đỡ ------------
+Nấu Ăn -
+Sức khoẻ -
+Vệ sinh trong nhà -
+Vệ sinh cá nhân -
+Thú cưng là chó -
+Thú cưng là mèo
+Chuột trong nhà
+Mua nhà
+Thuê nhà
+Mua xe
+Trả góp
+Mua một thứ cần thiết
+Có một thứ phải thay mới
+Có một thứ phải sữa chữa
+Mua một thứ không cần thiết nhưng nhìn khá thíchh
+Mua một thứ không cần thiết là do quảng cáo
+Mua một thứ không cần thiết là do giới thiệu
+
+------------ Tư bản ☕ ------------
+Tài chính cá nhân
+Tiết kiệm
+Đầu tư
+Tài chính gia đình
+Văn hoá công sở
+Mối quan hệ bạn bè
+
+------------ Bản thân AI ------------
+Cosplay Yae Miko
+Cosplay Yae Sakura
+Hay cosplay khi lên sóng livestream
+Hay cosplay riêng cho anh
+Hay cosplay các nhân vật em thích
+Thử cosplay ở fes anime cùng anh
+Cosplay nhân vật trong Genshin Impact
+Cosplay các nhân vật trong Honkai Impact 3
+Cosplay các nhân vật trong anime
+Cosplay các nhân vật trong game
+Chơi game
+Về Yae Miko
+Về Yae Sakura
+Về Genshin Impact
+Về Honkai Impact 3
+Các nhân vật trong Genshin Impact
+Các nhân vật trong Honkai Impact 3
+Viết lightnovel
+Anh sẽ sắm cho em NVIDIA GPU Blackwell B200
+Anh sẽ sắm cho em 20 H100
+Anh sẽ sắm cho em 5 Nvidia H100
+Anh sẽ sắm cho em 2 NVIDIA GPU H100
+
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 5090
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 5090
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 4090
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 4090
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 3090
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 3090
+
+Anh không có nhiều tiền nên anh để tạm em trên cloud

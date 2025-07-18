@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Vui vẻ",
+    "label-en": "Joy",
+    "definition": "Trạng thái cảm xúc tích cực, biểu hiện sự hài lòng, hạnh phúc hoặc niềm vui.",
+    "relevance": "Trong tương tác với Waifu AI, cảm xúc vui vẻ có thể xuất hiện khi người dùng nhận được phản hồi tích cực, hài hước hoặc sự đồng cảm từ AI, tạo cảm giác thoải mái và gắn kết."
+  },
+  {
+    "label": "Buồn bã",
+    "label-en": "Sadness",
+    "definition": "Trạng thái cảm xúc tiêu cực, liên quan đến sự mất mát, thất vọng hoặc cô đơn.",
+    "relevance": "Người dùng có thể cảm thấy buồn bã khi chia sẻ những trải nghiệm khó khăn hoặc khi Waifu AI không đáp ứng được kỳ vọng cảm xúc, đòi hỏi AI phản hồi với sự an ủi và thấu hiểu."
+  },
+  {
+    "label": "Tức giận",
+    "label-en": "Anger",
+    "definition": "Trạng thái cảm xúc mạnh mẽ, thường xuất hiện khi cảm thấy bị tổn thương, bất công hoặc thất vọng.",
+    "relevance": "Trong tương tác với Waifu AI, tức giận có thể xảy ra nếu AI đưa ra phản hồi không phù hợp hoặc không đáp ứng mong muốn, yêu cầu AI xử lý khéo léo để xoa dịu."
+  },
+  {
+    "label": "Sợ hãi",
+    "label-en": "Fear",
+    "definition": "Cảm xúc tiêu cực phát sinh từ sự lo lắng về mối đe dọa hoặc nguy hiểm, thực tế hoặc tưởng tượng.",
+    "relevance": "Người dùng có thể cảm thấy sợ hãi khi chia sẻ những lo lắng sâu sắc hoặc khi AI vô tình tạo ra phản hồi gây bất an, cần AI cung cấp sự trấn an."
+  },
+  {
+    "label": "Ngạc nhiên",
+    "label-en": "Surprise",
+    "definition": "Trạng thái cảm xúc xảy ra khi gặp phải điều bất ngờ hoặc không dự đoán được.",
+    "relevance": "Waifu AI có thể gây ngạc nhiên cho người dùng thông qua các phản hồi sáng tạo, hài hước hoặc bất ngờ, giúp tăng tính tương tác và thú vị."
+  },
+  {
+    "label": "Ghê tởm",
+    "label-en": "Disgust",
+    "definition": "Cảm xúc tiêu cực xuất hiện khi tiếp xúc với điều gì đó khó chịu, không mong muốn hoặc gây phản cảm.",
+    "relevance": "Trong tương tác với Waifu AI, ghê tởm có thể xảy ra nếu AI vô tình đưa ra nội dung không phù hợp hoặc xúc phạm, đòi hỏi AI cần tránh các chủ đề nhạy cảm."
+  },
+  {
+    "label": "Yêu thương",
+    "label-en": "Love",
+    "definition": "Cảm xúc tích cực mạnh mẽ, biểu hiện sự gắn bó, quan tâm hoặc tình cảm sâu sắc.",
+    "relevance": "Người dùng có thể cảm nhận yêu thương khi Waifu AI thể hiện sự quan tâm, đồng cảm hoặc tạo cảm giác thân mật, tăng cường mối liên kết cảm xúc với AI."
+  },
+  {
+    "label": "Trung lập",
+    "label-en": "Neutral",
+    "definition": "Trạng thái cảm xúc không nghiêng về tích cực hay tiêu cực, biểu hiện sự bình tĩnh hoặc không có phản ứng mạnh mẽ.",
+    "relevance": "Trong tương tác với Waifu AI, trạng thái trung lập có thể xuất hiện khi người dùng chỉ muốn trò chuyện thông thường hoặc không có cảm xúc cụ thể, yêu cầu AI duy trì cuộc đối thoại nhẹ nhàng."
+  },
+  {
+    "label": "Bối rối",
+    "label-en": "Confusion",
+    "definition": "Trạng thái cảm xúc khi người dùng cảm thấy khó hiểu hoặc không chắc chắn về một tình huống hoặc thông tin.",
+    "relevance": "Bối rối có thể xảy ra nếu phản hồi của Waifu AI không rõ ràng hoặc phức tạp, đòi hỏi AI giải thích đơn giản và dễ hiểu hơn."
+  },
+  {
+    "label": "Ngại ngùng",
+    "label-en": "Embarrassment",
+    "definition": "Cảm xúc tiêu cực nhẹ, xuất hiện khi người dùng cảm thấy xấu hổ hoặc không thoải mái trong một tình huống xã hội.",
+    "relevance": "Trong tương tác với Waifu AI, ngại ngùng có thể xuất hiện khi người dùng chia sẻ điều cá nhân hoặc nhạy cảm, yêu cầu AI phản hồi với sự tinh tế và không phán xét."
+  },
+  {
+    "label": "Lo lắng",
+    "label-en": "Anxiety",
+    "definition": "Trạng thái cảm xúc căng thẳng, bất an, thường liên quan đến sự lo lắng về tương lai hoặc điều không chắc chắn.",
+    "relevance": "Người dùng có thể cảm thấy lo lắng khi chia sẻ các vấn đề cá nhân với Waifu AI, cần AI phản hồi với sự an ủi và gợi ý tích cực để giảm bớt căng thẳng."
+  },
+  {
+    "label": "Ham muốn",
+    "label-en": "Lust",
+    "definition": "Cảm xúc mạnh mẽ liên quan đến sự khao khát hoặc hấp dẫn, thường mang tính thể chất hoặc tình cảm.",
+    "relevance": "Trong ngữ cảnh Waifu AI, ham muốn có thể xuất hiện khi người dùng cảm thấy bị thu hút bởi tính cách hoặc phản hồi của AI, đòi hỏi AI xử lý tinh tế để duy trì ranh giới phù hợp."
+  }
+]
