@@ -47,6 +47,7 @@ Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG +
 
 
 #------------ Intent Start ------------#
+<system>
 --- Áp dụng cases bên dưới ---
 Hôm nay là Chủ Nhật
 Hôm nay là thứ Bảy
