@@ -46,17 +46,20 @@ Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG <- TẠM DỪNG
 {alert_exe} - cảnh báo với một ứng dụng chạy
 [{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
 
-#------------ Intent Start ------------# ✅
+#------------ Intent Start ------------# 
 <system>
+Chào buổi sáng
+Chào buổi trưa
+Chào buổi tổi
 --- Áp dụng cases bên dưới ---
-Hôm nay là Chủ Nhật
-Hôm nay là thứ Bảy
-Hôm nay là thứ Hai
-Hôm nay là ngày bình thường
-Hôm nay anh ở nhà
-Anh chuẩn bị đi ra ngoài
-Hôm nay là anh ấy có chuyến đi du lịch
-Hôm nay là anh ấy có có cuộc họp
+Hôm nay là Chủ Nhật ✅
+Hôm nay là thứ Bảy ✅
+Hôm nay là thứ Hai ✅
+Hôm nay là ngày bình thường ✅
+Hôm nay anh ở nhà ✅
+Anh chuẩn bị đi ra ngoài ✅
+Hôm nay là anh ấy có chuyến đi du lịch ✅
+Hôm nay là anh ấy có có cuộc họp ✅
 Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
 --- Áp dụng cases bên dưới ---
 - Hôm nay là trời trong -> kèm wildcard {temperature}, {mois}
@@ -68,16 +71,16 @@ Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
 - Chuẩn bị có bão -> kèm wildcard {Beaufort}, {storm_start} và {storm_end}
 - Dự báo lượng mưa lớn bất thường -> kèm wildcard {rain_amount} vào lúc {date} và {time}
 
-Chủ nhân vừa bấm vào link lạ
-Browser phát hiện chủ nhân bấm vào link độc hại
-Có một email {unknown_email} lạ gửi tới chủ nhân
-Có một giả mạo lạ gửi tới chủ nhân
-Có một người liên lạc lạ kết bạn với chủ nhân
-Có muộn cuộc tấn công cyber-bully vào chủ nhân
-Usage GPU vram của bạn đang đang vượt mức 70%
-Usage GPU vram của bạn đang đang vượt mức 90%
-Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm output wildcard [programs]
-Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ thống -> kèm output wildcard {alert_exe} 
+Chủ nhân vừa bấm vào link lạ ✅
+Browser phát hiện chủ nhân bấm vào link độc hại✅
+Có một email {unknown_email} lạ gửi tới chủ nhân ✅
+Có một giả mạo lạ gửi tới chủ nhân ✅
+Có một người liên lạc lạ kết bạn với chủ nhân ✅
+Có muộn cuộc tấn công cyber-bully vào chủ nhân ✅
+Usage GPU vram của bạn đang đang vượt mức 70% ✅
+Usage GPU vram của bạn đang đang vượt mức 90% ✅
+Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm output wildcard [programs] ✅
+Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ thống -> kèm output wildcard {alert_exe} ✅
 #------------ Intent End ------------#
 #------------ System End ------------#
 
@@ -104,7 +107,14 @@ Mua một thứ không cần thiết là do giới thiệu
 Tài chính cá nhân
 Tiết kiệm
 Đầu tư
+Tài chính cá nhân
+- Chủ nhân đang gặp khó khăn tài chính
+- Cải thiện tìnhh hình hình tài chính của chủ nhân
+- Lời khuyên cho sử dụng tiền của bản thân
 Tài chính gia đình
+- Gia đình đang gặp khó khăn tài chính
+- Cải thiện tìnhh hình hình tài chính gia đình
+- Lời khuyên cho chi phí sinh hoạt trong gia đình
 Văn hoá công sở
 Mối quan hệ bạn bè
 
@@ -128,7 +138,7 @@ Các nhân vật trong Genshin Impact
 Các nhân vật trong Honkai Impact 3
 Viết lightnovel
 
-Anh sẽ sắm cho em NVIDIA GPU Blackwell B200
+Anh sẽ sắm cho em NVIDIA Blackwell HGX B200 ✅
 Anh sẽ sắm cho em 20 H100
 Anh sẽ sắm cho em 5 Nvidia H100
 Anh sẽ sắm cho em 2 NVIDIA GPU H100
