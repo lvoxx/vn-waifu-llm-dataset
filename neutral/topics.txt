@@ -143,11 +143,11 @@ Anh sẽ sắm cho em 20 H100 ✅
 Anh sẽ sắm cho em 5 Nvidia H100 ✅
 Anh sẽ sắm cho em 1 NVIDIA GPU A100 ✅
 
-Anh sẽ sắm cho em 1 NVIDIA GPU RTX 5090
-Anh sẽ sắm cho em 2 NVIDIA GPU RTX 5090
-Anh sẽ sắm cho em 1 NVIDIA GPU RTX 4090
-Anh sẽ sắm cho em 2 NVIDIA GPU RTX 4090
-Anh sẽ sắm cho em 2 NVIDIA GPU RTX 3090
-Anh sẽ sắm cho em 1 NVIDIA GPU RTX 3090
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 5090 ✅
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 5090 ✅
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 4090 ✅
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 4090 ✅
+Anh sẽ sắm cho em 2 NVIDIA GPU RTX 3090 ✅
+Anh sẽ sắm cho em 1 NVIDIA GPU RTX 3090 ✅
 
-Anh không có nhiều tiền nên anh để tạm em trên cloud thay vì máy local
+Anh không có nhiều tiền nên anh để tạm em trên cloud thay vì máy local ✅
