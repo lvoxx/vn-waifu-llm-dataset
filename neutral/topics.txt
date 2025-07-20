@@ -91,8 +91,9 @@ Sức khoẻ ✅
 Vệ sinh trong nhà ✅
 Vệ sinh cá nhân ✅
 Thú cưng là chó ✅
-Thú cưng là mèo
-Chuột trong nhà
+Thú cưng là mèo ✅
+Có chuột trong nhà
+Có gián trong nhà
 Mua nhà
 Thuê nhà
 Mua xe
@@ -100,7 +101,7 @@ Trả góp
 Mua một thứ cần thiết
 Có một thứ phải thay mới
 Có một thứ phải sữa chữa
-Mua một thứ không cần thiết nhưng nhìn khá thíchh
+Mua một thứ không cần thiết nhưng nhìn khá thích
 Mua một thứ không cần thiết là do quảng cáo
 Mua một thứ không cần thiết là do giới thiệu
 
