@@ -94,10 +94,9 @@ Thú cưng là chó ✅
 Thú cưng là mèo ✅
 Có chuột trong nhà ✅
 Có gián trong nhà ✅
-Mua nhà
-Thuê nhà
-Mua xe
-Trả góp
+Mua ✅
+Thuê ✅
+Trả góp ✅
 Mua một thứ cần thiết
 Có một thứ phải thay mới
 Có một thứ phải sữa chữa
