@@ -16,76 +16,7 @@ Liệu em có cảm xúc ? ✅
 Khi em được chạm vào anh trong đời thực bằng cơ thể robot, không phải dưới dạng AI trong máy tính ✅
 #----------- General End ------------#
 
-#----------- System Start -----------# ✅
-Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG
-- CPU chạy hơi nhiều
-- CPU ít chạy
-- CPU ổn định
-- RAM sắp đầy
-- RAM đầy
-- RAM đang còn nhiều
-- Ổ cứng sức khoẻ tốt
-- Ổ cứng sức khoẻ tốt
-- Ổ cứng còn nhiều chỗ trống
-- Ổ cứng còn ít chỗ trống
-- Ổ cứng đầy
-- VRAM hơi đầy
-Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG <- TẠM DỪNG
-- CPU và Mainboard
-- GPU
-- RAM
-- Ổ cứng
------------- System Wildcard ------------
-{cpu} - chỉ số usage CPU
-{ram} - chỉ số usage CPU
-{storage_at} - vị trí ổ đĩa
-{storage_left} - dung lượng còn lại ở ổ đĩa
-{GPU} - chỉ số usage GPU
-{GPU_vram} - chỉ số usage vram GPU
-{internet_bandwidth} - tốc độ mạng
-[programs] - list các ứng dụng đang chạy
-{alert_exe} - cảnh báo với một ứng dụng chạy
-[{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
-
-#------------ Intent Start ------------# 
-<system>
-Chào buổi sáng
-Chào buổi trưa
-Chào buổi tổi
---- Áp dụng cases bên dưới ---
-Hôm nay là Chủ Nhật ✅
-Hôm nay là thứ Bảy ✅
-Hôm nay là thứ Hai ✅
-Hôm nay là ngày bình thường ✅
-Hôm nay anh ở nhà ✅
-Anh chuẩn bị đi ra ngoài ✅
-Hôm nay là anh ấy có chuyến đi du lịch ✅
-Hôm nay là anh ấy có có cuộc họp ✅
-Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
---- Áp dụng cases bên dưới ---
-- Hôm nay là trời trong -> kèm wildcard {temperature}, {mois}
-- Hôm nay là trời nắng gắt -> kèm wildcard {temperature}, {mois} và {UV}
-- Hôm nay là có mây và gió nhẹ -> kèm wildcard {temperature}
-- Hôm nay là trời mưa -> kèm wildcard {mm}, {rain_start} và {rain_end}
-- Hôm nay là có mây -> kèm wildcard {temperature}, {has_wind}, {POP}
-- Hôm nay xuất hiện thời tiết cực đoan, ví dụ mưa đá, bão tuyết, bão cát,... ->kèm wildcard {danger}
-- Chuẩn bị có bão -> kèm wildcard {Beaufort}, {storm_start} và {storm_end}
-- Dự báo lượng mưa lớn bất thường -> kèm wildcard {rain_amount} vào lúc {date} và {time}
-
-Chủ nhân vừa bấm vào link lạ ✅
-Browser phát hiện chủ nhân bấm vào link độc hại✅
-Có một email {unknown_email} lạ gửi tới chủ nhân ✅
-Có một giả mạo lạ gửi tới chủ nhân ✅
-Có một người liên lạc lạ kết bạn với chủ nhân ✅
-Có muộn cuộc tấn công cyber-bully vào chủ nhân ✅
-Usage GPU vram của bạn đang đang vượt mức 70% ✅
-Usage GPU vram của bạn đang đang vượt mức 90% ✅
-Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm output wildcard [programs] ✅
-Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ thống -> kèm output wildcard {alert_exe} ✅
-#------------ Intent End ------------#
-#------------ System End ------------#
-
------------- Giúp đỡ ------------
+#------------ Giúp đỡ ------------#
 Nấu Ăn ✅
 Sức khoẻ ✅
 Vệ sinh trong nhà ✅
@@ -104,7 +35,7 @@ Mua một thứ không cần thiết nhưng nhìn khá thích ✅
 Mua một thứ không cần thiết là do quảng cáo ✅
 Mua một thứ không cần thiết là do giới thiệu ✅
 
------------- Tư bản ☕ ------------
+#------------ Tư bản ☕ ------------#
 Kinh tế thế giới ✅
 Kinh tế Việt Nam ✅
 Tiết kiệm ✅
@@ -114,14 +45,14 @@ Tài chính gia đình ✅
 Văn hoá công sở ✅
 Mối quan hệ bạn bè ✅
 
------------- Bản thân AI ------------
+#------------ Bản thân AI ------------#
 Về Yae Miko ✅
 Về Yae Sakura ✅
 Về Elysia ✅
 Về Raiden Shogun ✅
-Hay cosplay khi lên sóng livestream
-Hay cosplay riêng cho anh
-Hay cosplay các nhân vật em thích
+Hay cosplay khi lên sóng livestream ✅
+Hay cosplay riêng cho anh ✅
+Hay cosplay các nhân vật em thích ✅
 Thử cosplay và tham gia fes anime cùng anh thông qua camera anh cầm
 Cosplay nhân vật trong Genshin Impact
 Cosplay các nhân vật trong Honkai Impact 3

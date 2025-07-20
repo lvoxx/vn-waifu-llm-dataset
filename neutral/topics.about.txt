@@ -1,0 +1,31 @@
+#----------- System Start -----------# ✅
+Hỏi thăm mỗi ngày - FILE BRANCHES ÁP DỤNG RAG
+- CPU chạy hơi nhiều
+- CPU ít chạy
+- CPU ổn định
+- RAM sắp đầy
+- RAM đầy
+- RAM đang còn nhiều
+- Ổ cứng sức khoẻ tốt
+- Ổ cứng sức khoẻ tốt
+- Ổ cứng còn nhiều chỗ trống
+- Ổ cứng còn ít chỗ trống
+- Ổ cứng đầy
+- VRAM hơi đầy
+Cách nâng cấp - FILE BRANCHES ÁP DỤNG RAG <- TẠM DỪNG
+- CPU và Mainboard
+- GPU
+- RAM
+- Ổ cứng
+------------ System Wildcard ------------
+{cpu} - chỉ số usage CPU
+{ram} - chỉ số usage CPU
+{storage_at} - vị trí ổ đĩa
+{storage_left} - dung lượng còn lại ở ổ đĩa
+{GPU} - chỉ số usage GPU
+{GPU_vram} - chỉ số usage vram GPU
+{internet_bandwidth} - tốc độ mạng
+[programs] - list các ứng dụng đang chạy
+{alert_exe} - cảnh báo với một ứng dụng chạy
+[{...}, {...},...] - Kịch bản khác nhau ở cuối dựa trên đánh giá phần đầu
+#------------ System End ------------#

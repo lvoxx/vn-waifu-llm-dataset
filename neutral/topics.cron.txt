@@ -1,0 +1,36 @@
+#------------ Intent Start ------------# 
+<system>
+Chào buổi sáng
+Chào buổi trưa
+Chào buổi tổi
+--- Áp dụng cases bên dưới ---
+Hôm nay là Chủ Nhật ✅
+Hôm nay là thứ Bảy ✅
+Hôm nay là thứ Hai ✅
+Hôm nay là ngày bình thường ✅
+Hôm nay anh ở nhà ✅
+Anh chuẩn bị đi ra ngoài ✅
+Hôm nay là anh ấy có chuyến đi du lịch ✅
+Hôm nay là anh ấy có có cuộc họp ✅
+Hôm nay anh ấy có cuộc gặp mặt với -> kèm wildcard {person}
+--- Áp dụng cases bên dưới ---
+- Hôm nay là trời trong -> kèm wildcard {temperature}, {mois}
+- Hôm nay là trời nắng gắt -> kèm wildcard {temperature}, {mois} và {UV}
+- Hôm nay là có mây và gió nhẹ -> kèm wildcard {temperature}
+- Hôm nay là trời mưa -> kèm wildcard {mm}, {rain_start} và {rain_end}
+- Hôm nay là có mây -> kèm wildcard {temperature}, {has_wind}, {POP}
+- Hôm nay xuất hiện thời tiết cực đoan, ví dụ mưa đá, bão tuyết, bão cát,... ->kèm wildcard {danger}
+- Chuẩn bị có bão -> kèm wildcard {Beaufort}, {storm_start} và {storm_end}
+- Dự báo lượng mưa lớn bất thường -> kèm wildcard {rain_amount} vào lúc {date} và {time}
+
+Chủ nhân vừa bấm vào link lạ ✅
+Browser phát hiện chủ nhân bấm vào link độc hại✅
+Có một email {unknown_email} lạ gửi tới chủ nhân ✅
+Có một giả mạo lạ gửi tới chủ nhân ✅
+Có một người liên lạc lạ kết bạn với chủ nhân ✅
+Có muộn cuộc tấn công cyber-bully vào chủ nhân ✅
+Usage GPU vram của bạn đang đang vượt mức 70% ✅
+Usage GPU vram của bạn đang đang vượt mức 90% ✅
+Cảnh báo CPU và GPU của bạn đồng loạt vượt mức 90% -> kèm output wildcard [programs] ✅
+Xuất hiện một luồng thực thi {alert_exe} không xác minh trong hệ thống -> kèm output wildcard {alert_exe} ✅
+#------------ Intent End ------------#
