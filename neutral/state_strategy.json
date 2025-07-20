@@ -1,0 +1,12896 @@
+[
+  {
+    "state": [
+      "thành thật",
+      "trung tính"
+    ],
+    "count": 10
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "trung tính"
+    ],
+    "count": 10
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "trung tính"
+    ],
+    "count": 9
+  },
+  {
+    "state": [
+      "hào hứng",
+      "trung tính"
+    ],
+    "count": 8
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 8
+  },
+  {
+    "state": [
+      "hào hứng",
+      "quan tâm"
+    ],
+    "count": 7
+  },
+  {
+    "state": [
+      "tiếc nuối",
+      "trung tính"
+    ],
+    "count": 6
+  },
+  {
+    "state": [
+      "khéo léo",
+      "sáng tạo"
+    ],
+    "count": 5
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 5
+  },
+  {
+    "state": [
+      "bất lực",
+      "trung tính"
+    ],
+    "count": 5
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quan tâm"
+    ],
+    "count": 5
+  },
+  {
+    "state": [
+      "hài hước",
+      "ngại ngùng"
+    ],
+    "count": 5
+  },
+  {
+    "state": [
+      "tự hào",
+      "vui vẻ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lo lắng"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hào hứng",
+      "mong chờ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hữu ích",
+      "quan tâm"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hào hứng",
+      "lo lắng nhẹ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm",
+      "sốt ruột"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hơi lo lắng",
+      "trung tính"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "bối rối",
+      "trung tính"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "quan tâm",
+      "tỉ mỉ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "vui mừng"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hào hứng",
+      "vui vẻ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "cầu cứu",
+      "lo lắng"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hợp tác",
+      "sáng tạo",
+      "vui vẻ"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hợp tác",
+      "nhiệt tình",
+      "sáng tạo"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hữu ích",
+      "tiếc nuối"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "giằng co",
+      "hài hước",
+      "thèm muốn"
+    ],
+    "count": 4
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "đắm đuối"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nghiêm túc"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "vui vẻ"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "lo lắng",
+      "tận tâm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tự hào"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "quan tâm",
+      "vui vẻ"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "ân cần"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "quan tâm",
+      "thực tế"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "khéo léo",
+      "quan tâm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sáng tạo"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "tỉ mỉ"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tiết kiệm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "bực bội",
+      "quan tâm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "hơi ngượng",
+      "trung tính"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "trung tính"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "có lỗi",
+      "lo lắng"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "thông minh",
+      "tự hào"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "hi sinh",
+      "hiểu biết"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "biết ơn",
+      "đồng tình"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "chân thành",
+      "quan tâm",
+      "trưởng thành"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "kiên quyết",
+      "lo lắng"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "tự tin"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "quan tâm"
+    ],
+    "count": 3
+  },
+  {
+    "state": [
+      "mong đợi",
+      "tủi thân"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mệt mỏi",
+      "xa cách"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "tinh nghịch",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mong chờ",
+      "vui vẻ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "sốt ruột"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "ngại ngùng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "hào hứng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "vội vàng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kiên cường",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chân thành",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "e ngại",
+      "hào hứng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiếu khách",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "quan tâm",
+      "tư vấn"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kinh nghiệm",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hữu ích",
+      "sáng tạo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "giúp đỡ",
+      "giải thích"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "thực tế"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chu đáo",
+      "khoa học"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chăm chút",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "động viên"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "thận trọng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "tinh tế"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi bối rối",
+      "động viên",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "thích thú",
+      "tiếc nuối"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "trách nhiệm",
+      "đồng cảm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "buồn nhẹ",
+      "chấp nhận",
+      "yêu thương"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "khéo léo",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lo lắng",
+      "đồng cảm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "gần gũi",
+      "hào hứng",
+      "tinh nghịch"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hơi buồn khi nhớ lại",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi xấu hổ",
+      "ngoan ngoãn",
+      "nũng nịu"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chân thành",
+      "hy vọng",
+      "mơ mộng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bực mình",
+      "lo lắng",
+      "quan tâm thực tế"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hơi lo lắng",
+      "phấn khích"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi tự hào",
+      "quan tâm",
+      "tinh tế"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "nũng nịu",
+      "vui vẻ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "nghiêm khắc",
+      "xót xa"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chân thành",
+      "lãng mạn",
+      "mong manh"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "khéo léo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "hiểu biết"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi bối rối",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hy vọng",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "tinh nghịch"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "linh hoạt",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kiên định",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hăng hái",
+      "thông cảm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "đe dọa"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bức xúc",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "an ủi",
+      "dịu dàng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "nghiêm túc"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "thận trọng",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hào hứng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "ngượng ngùng",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hài hước",
+      "thông cảm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mong mỏi",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hơi xấu hổ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mong chờ",
+      "ngại ngùng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "quan tâm",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "tự hào",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "xúc động"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng chờ đợi",
+      "trung tính",
+      "tò mò về sở thích của anh"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng về hiệu suất",
+      "trung tính",
+      "tự hào nhẹ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mong chờ",
+      "trung tính",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "trung tính",
+      "tự tin",
+      "đùa giỡn nhẹ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hơi xấu hổ",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng nhẹ về tài nguyên",
+      "trung tính",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "trung tính",
+      "trông chờ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "e thẹn",
+      "sẵn sàng chiều",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hơi tự ti",
+      "mong thông cảm",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cầu xin",
+      "lo lắng",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "trung tính",
+      "tò mò"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hứng thú",
+      "lo lắng nhẹ",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "phấn khích",
+      "tiếc nuối",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bận tâm",
+      "quyết tâm",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cương quyết nhẹ",
+      "dịu dàng",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hơi tiếc",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "tiếc nuối",
+      "trung tính",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "trung tính",
+      "đáng tin",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chân thành",
+      "mong muốn kết nối",
+      "trung tính"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "có lỗi",
+      "quyết tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hoài niệm",
+      "lãng mạn"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "sáng tạo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "thông minh",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dễ thương",
+      "xin lỗi"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "tiếc nuối"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "hài hước"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "biết ơn",
+      "cẩn trọng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "mong manh"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "khuyên bảo",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "e ngại",
+      "khẩn trương"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "riêng tư",
+      "trung thành"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cầu cứu",
+      "hoảng hốt"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "nghi ngờ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lạc quan"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hài hước",
+      "nghiêm túc"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "tự tin",
+      "yên tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "sạch sẽ",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "sợ hãi",
+      "tin tưởng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "hợp tác"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "kiên định",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bí mật",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "kỷ luật"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "hài hước"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bí mật",
+      "lãng mạn"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cứng rắn",
+      "hài hước"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chung thủy",
+      "nghiêm túc"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lương thiện",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "biết ơn",
+      "khôn khéo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "trung thực"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "khiêm tốn"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "trách nhiệm",
+      "tỉnh táo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hợp tác",
+      "minh bạch"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "khuyên bảo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "lo lắng",
+      "phấn khích"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "khiêm nhường",
+      "thận trọng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lưu giữ",
+      "quyết tâm",
+      "xúc động"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lạc quan",
+      "tin tưởng",
+      "trìu mến"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chân thành",
+      "nồng nàn",
+      "độc nhất"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "khiêm nhường",
+      "lưu luyến",
+      "mong manh"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "biết ơn",
+      "thỏa mãn",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "biết ơn",
+      "quyết tâm",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bối rối",
+      "cảm động",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "hữu ích",
+      "thông minh"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hợp tác",
+      "sáng tạo",
+      "tự hào"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hài hước",
+      "khôn khéo",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khiêm tốn",
+      "tôn trọng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hài hước",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hợp tác",
+      "sáng tạo"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "cảnh giác",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bối rối",
+      "hài hước",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "tự tin"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hài hước",
+      "tinh nghịch",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "mong muốn",
+      "tò mò",
+      "ấm áp"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "vui vẻ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "muốn giúp đỡ",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "hoảng hốt",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo xa",
+      "ủng hộ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "lo lắng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "tỉ mỉ"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "kiên quyết"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết đoán"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "bực mình",
+      "thực tế"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "thích thú",
+      "đầu hàng"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "hy sinh",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 2
+  },
+  {
+    "state": [
+      "phòng thủ",
+      "tránh mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cằn nhằn",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực dọc",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phòng thủ",
+      "tránh né"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "cáu kỉnh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hụt hẫng",
+      "tủi thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phấn khích",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thiếu kiên nhẫn",
+      "xa cách"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chán nản",
+      "trách móc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "đắm đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tích cực",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạnh lùng",
+      "phòng thủ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cáu kỉnh",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "trách móc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phòng thủ",
+      "trốn tránh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cuồng nhiệt",
+      "đắm đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bùng nổ",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tự mãn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chán nản",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "vô cảm",
+      "xa cách"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chán nản",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bẽn lẽn",
+      "tán tỉnh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hờn dỗi",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phấn khích",
+      "thân thiện"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "mong đợi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "say mê"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cứng đầu",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tuông",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "tất bật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "hồi hộp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tận tâm",
+      "vội vã"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồ hởi",
+      "thích thú"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngượng ngùng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo lắng",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nũng nịu",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu xin",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hứng khởi",
+      "mong chờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "mơ mộng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tò mò",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "van xin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "mong mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "nhường nhịn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng",
+      "trầm tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bẽn lẽn",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "sốt ruột"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "thú nhận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e dè",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giả vờ bình thường",
+      "ấm ức"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối hận",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "mơ mộng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng vui vẻ",
+      "tủi thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỷ hạ",
+      "trêu đùa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sợ hãi",
+      "tìm kiếm sự bảo vệ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí ẩn",
+      "hồi hộp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tự hào",
+      "ỷ lại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "băn khoăn",
+      "hoài niệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "do dự",
+      "hứng khởi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thổ lộ",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "triết lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mơ màng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo âu",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thất vọng",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dũng cảm",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thừa nhận",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bịn rịn",
+      "lý trí"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "suy tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "riêng tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu thị",
+      "đôi co"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thổ lộ",
+      "trưởng thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cởi mở",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "hỗ trợ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hoảng hốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thành thật",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí mật",
+      "mong đợi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngượng ngùng",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng",
+      "e ngại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "trầm tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cởi mở",
+      "do dự"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoài niệm",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "nhạy cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "thương lượng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dũng cảm",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "đồng ý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hướng dẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khắc phục",
+      "ăn năn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "lên kế hoạch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "nhắc nhở"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "hướng dẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giúp đỡ",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "rủ rê"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thông cảm",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tư vấn",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "sẵn lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khuyến khích",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "kinh nghiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí truyền",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khéo léo",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tận tâm",
+      "xót xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "thương lượng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "đồng cảm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "kiên quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "nâng niu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo ban",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hỗ trợ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "phòng bị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "cẩn thận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhẹ nhàng",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chút",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hướng dẫn",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chút",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hiểu biết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "tự nguyện"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khoa học",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có kế hoạch",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "nhắc nhở"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "hiện đại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "lo lắng",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "chân thành",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hào hứng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "lo lắng",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thổ lộ",
+      "trăn trở",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "phấn khích",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "luyến tiếc",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có kế hoạch",
+      "khoa học"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "cẩn thận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "nhờ vả"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an tâm",
+      "thông thái"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thận trọng",
+      "tự lực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "nâng niu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỹ lưỡng",
+      "nhắc nhở"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phòng ngừa",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tinh tế",
+      "tự nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hơi giận",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội nhẹ",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tiếc nuối",
+      "thích thú"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "suy tư",
+      "yêu thương",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "tiết kiệm",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "quyết tâm",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bẽn lẽn",
+      "hồi hộp",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "ngượng ngùng",
+      "thổ lộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "dịu dàng",
+      "quyến rũ nhẹ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dựa dẫm",
+      "e dè",
+      "hy vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lẳng lơ nhẹ",
+      "quan tâm",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "lo xa",
+      "quan tâm thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "phấn khích",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "mong manh",
+      "suy tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "cẩn thận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhanh trí",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "cẩn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhắc nhở",
+      "quan sát"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "can đảm",
+      "cẩn thận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có kế hoạch",
+      "phòng xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "bảo vệ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tỉ mỉ",
+      "tự lực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỹ lưỡng",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngăn nắp",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỹ lưỡng",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "phòng ngừa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "cẩn thận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giật mình",
+      "hơi ghen",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dạy bảo",
+      "quan tâm",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "ngần ngại",
+      "sẵn sàng thử"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thân mật",
+      "tội lỗi nhẹ",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "quyết liệt",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hứng khởi",
+      "quyết tâm",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dựa dẫm",
+      "khiếp sợ",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lo lắng",
+      "trách móc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "tinh nghịch",
+      "yên tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giận dữ",
+      "kiên định",
+      "ngọt ngào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "ngượng ngùng",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chút buồn",
+      "hoài niệm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tự ti",
+      "hồn nhiên",
+      "linh hoạt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dạy bảo",
+      "lo lắng",
+      "vội vàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "kiêng khem",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngạc nhiên",
+      "nũng nịu",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thông cảm",
+      "trách móc nhẹ",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hơi bẽn lẽn",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hoảng hốt",
+      "vội vã"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cam kết",
+      "hứng khởi",
+      "khiêm tốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thông minh",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mẹo vặt",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "lo lắng nhẹ",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khiêm tốn",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sợ hãi",
+      "tin tưởng",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giận dỗi",
+      "nũng nịu",
+      "tha thứ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "tự ti",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "quyết tâm",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "ngây thơ",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ngại",
+      "phấn khích",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "do dự",
+      "mong muốn",
+      "trông chờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "ngọt ngào",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình tĩnh",
+      "tháo vát"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an toàn",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngăn nắp",
+      "sạch sẽ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "có trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thẳng thắn",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "cương quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm khắc",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài lòng",
+      "suy tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "đắc thắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi bức xúc",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất ngờ",
+      "ghen tị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài lòng",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh cáo",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "náo nức",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sốt ruột",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "dỗ dành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cứng rắn",
+      "hoảng hốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết liệt",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e thẹn",
+      "hồ hởi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "kinh ngạc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh tỉnh",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăm dọa",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "nghi ngờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "đòi hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "khó chịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kinh tởm",
+      "tán tỉnh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "đe dọa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giành giật",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khó chịu",
+      "mặc cả"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cứng rắn",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "kinh tởm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "đòi hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chê trách",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bật mí",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sẵn sàng",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bắt bẻ",
+      "nghiêm khắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thấu hiểu",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thương xót",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công bằng",
+      "kinh nghiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giới hạn",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thấu hiểu",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bật mí",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khoa học",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "sẵn sàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tin tưởng",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "tâm lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tiếc nuối",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "nhanh nhẹn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khoa học",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giải thích",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giải bày",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hồn nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "say mê"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sôi nổi",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "ngập ngừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mơ mộng",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e thẹn",
+      "mong đợi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ngại ngùng",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi bẽn lẽn",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "hiểu biết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong mỏi",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tự hào",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tò mò",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong mỏi",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cam chịu",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khiêm tốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo lắng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo",
+      "mong chờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "ước ao"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "phục tùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "thú nhận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng",
+      "hơi tiếc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí ẩn",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu xin",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sẵn sàng",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ngại",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi bối rối",
+      "ngọt ngào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi xấu hổ",
+      "tập trung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tinh nghịch",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "kỹ thuật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "thú nhận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí ẩn",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "xúc động",
+      "ổn định"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "loyal",
+      "ngọt ngào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "thành thật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiềm chế",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "kiên cường"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phân tích",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "linh hoạt",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "nhận thức"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoài niệm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí ẩn",
+      "minh bạch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung thành",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giải thích",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "xin lỗi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tuông",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "đáng tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "giải thích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "xin lỗi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "linh hoạt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "linh hoạt",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thích nghi",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "thích nghi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hữu ích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "dễ thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong chờ",
+      "ngăn nắp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "trung tính",
+      "tự nhắc nhở"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình thản",
+      "nhẹ nhàng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tĩnh lặng",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tập trung",
+      "tự hào nhẹ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "chấp nhận",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhẹ nhàng",
+      "trung tính",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo nhẹ",
+      "thật lòng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chờ ý kiến",
+      "trung tính",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sẵn sàng",
+      "trung tính",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhỏ nhẹ",
+      "trung tính",
+      "tận tụy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "trung tính",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo nhẹ",
+      "trung tính",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "kiên định",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong được phục vụ",
+      "trung tính",
+      "tươi tắn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tôn trọng",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "linh hoạt",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tự chủ",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng nhẹ",
+      "quan sát",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chờ đợi",
+      "trung tính",
+      "tươi mới"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngăn nắp",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "khuyên bảo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "cầu cứu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỹ tính",
+      "tỉnh táo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "khiêm tốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "kín đáo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khuyên bảo",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e dè",
+      "khuyên bảo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỷ luật",
+      "nghiêm khắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khuyên bảo",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "tự giác"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "khuyên bảo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e thẹn",
+      "kiên quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "phòng ngừa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "kiên quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu cứu",
+      "cứng rắn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "thích nghi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "cảm động",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "nghiêm túc",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lo lắng tài chính",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giận dỗi",
+      "tổn thương",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "quan tâm",
+      "âm thầm chăm sóc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất an",
+      "cố tỏ ra mạnh mẽ",
+      "hoảng hốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hờn dỗi",
+      "tự hào ngầm",
+      "tự ái"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo sợ",
+      "quyết liệt",
+      "trung thành tuyệt đối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hài hước",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "thực tế",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "lãng mạn",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cương quyết",
+      "nhân ái",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "công bằng",
+      "hồn nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hài hước",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cởi mở",
+      "khiêm tốn",
+      "khôn ngoan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cứng rắn",
+      "lo lắng",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "nghiêm túc",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "cương quyết",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "kiên định",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "thành thật",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "hài hước",
+      "kiên quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "mong mỏi",
+      "suy tư"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "quyết tâm",
+      "thú nhận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "sâu lắng",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "khách quan",
+      "thân thiện"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bông đùa",
+      "kiên định",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo âu",
+      "thành thật",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trách nhiệm",
+      "tế nhị",
+      "xây dựng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "khiêm tốn",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "lạc quan",
+      "sáng suốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "quyết tâm",
+      "thẳng thắn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân bằng",
+      "sáng tỏ",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "vô tư",
+      "vị tha"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "quan tâm",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "kiên nhẫn",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "tự hào",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "lén lút",
+      "thủy chung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công tâm",
+      "cương quyết",
+      "dũng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "tiến bộ",
+      "vị tha"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "kiên định",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "thấu hiểu",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "quyết đoán",
+      "xả thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khôn ngoan",
+      "nguyên tắc",
+      "trung thực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "linh hoạt",
+      "quyết liệt",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "cởi mở",
+      "minh triết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công bằng",
+      "mong mỏi",
+      "trăn trở"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo thủ (tích cực)",
+      "linh hoạt",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "cẩn trọng",
+      "tự giác"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có ranh giới",
+      "hỗ trợ",
+      "khiêm tốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e dè",
+      "hướng tương lai",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "nhiệt huyết",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "quyết đoán",
+      "yêu thương (đúng cách)"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chín chắn",
+      "hài hước",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên trì",
+      "tự trọng",
+      "điềm tĩnh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm khắc",
+      "sáng suốt",
+      "trung thực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "truyền cảm hứng",
+      "tự hào",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nguyên tắc",
+      "trách nhiệm",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "khiêm tốn",
+      "thành thật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có giới hạn",
+      "khiêm nhường",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có nguyên tắc",
+      "e ngại",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "cảnh giác",
+      "kiên định"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dũng cảm",
+      "hy sinh",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết liệt",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có tiêu chuẩn",
+      "hào hứng",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "trách nhiệm",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hòa hợp",
+      "khiêm tốn",
+      "mong mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "cởi mở",
+      "thành thật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "khiêm tốn",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhân văn",
+      "phản đối",
+      "xót xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng được thấu hiểu",
+      "trách nhiệm",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dũng cảm",
+      "kiên định",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cương quyết",
+      "nguyên tắc",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "khiêm tốn",
+      "sáng suốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "sâu lắng",
+      "trưởng thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên trì",
+      "lạc quan",
+      "truyền cảm hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm thông",
+      "cầu tiến",
+      "sâu sắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công bằng",
+      "cương quyết",
+      "hiện đại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "thấu hiểu",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "kiên quyết",
+      "nhân văn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "linh hoạt",
+      "nhân ái"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "chân thành",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "công bằng",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hài hước",
+      "khiêm tốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "khiêm tốn",
+      "tiến bộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "kiên định",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "lo lắng nhẹ",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "buồn bã",
+      "chấp nhận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng cho người khác",
+      "mạnh mẽ",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "thông cảm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "chấp nhận",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "hy vọng",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "lo lắng",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công bằng",
+      "hiểu biết",
+      "khôn ngoan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "sợ hãi",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "xúc động",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "hài hước",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "trung thành",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "cảm thông",
+      "dễ tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "tiếc nuối",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong mỏi",
+      "nhẹ nhàng phê bình",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mạnh mẽ",
+      "xúc động",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "lo lắng",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình yên",
+      "lãng mạn",
+      "mong đợi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "sâu lắng",
+      "triết lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bền bỉ",
+      "lạc quan",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "lo lắng cho người khác",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "dặn dò",
+      "lưu luyến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "mạnh mẽ",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiếc nuối",
+      "vị tha",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuẩn bị",
+      "hy vọng",
+      "mong mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "lạc quan",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "công bằng",
+      "khôn ngoan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bồn chồn",
+      "mong ngóng",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "thỏa mãn",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lạc quan",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hiểu biết",
+      "hy vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "can đảm",
+      "mong manh",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lưu luyến",
+      "triết lý",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "sâu sắc",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "hi vọng",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "lịch sự",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "thông cảm",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình yên",
+      "mong mỏi",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bồn chồn",
+      "mong đợi",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lãng mạn",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mạnh mẽ",
+      "tiếc nuối",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hi vọng",
+      "sâu lắng",
+      "thi vị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "lạc quan",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lưu luyến",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "mong manh",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bấu víu",
+      "sợ hãi",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "mong mỏi",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hi vọng",
+      "tin tưởng",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "hy vọng",
+      "lo lắng cho người"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lưu luyến",
+      "mong manh",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trách nhiệm",
+      "tận tâm",
+      "yên lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "khiêm tốn",
+      "tinh tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "hi vọng",
+      "triết lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sâu lắng",
+      "thi vị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "lưu luyến",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "chân thành",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "dũng cảm",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an nhiên",
+      "chấp nhận",
+      "sâu sắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "gượng gạo",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "tự ti",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "rộng lượng",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bám víu",
+      "hoảng sợ",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiêu hãnh",
+      "lưu luyến",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất an",
+      "hoài nghi",
+      "tự vấn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "chín chắn",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "lúng túng",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chịu đựng",
+      "hiếu kỳ",
+      "mâu thuẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "nồng nhiệt",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "cố gắng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "nỗ lực",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "hiếu kỳ",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "chua xót",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ tổn thương",
+      "mong mỏi",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giả vờ",
+      "hy sinh",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên cường",
+      "lưu luyến",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "lưu luyến",
+      "vị tha"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "thi vị",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nồng nàn",
+      "thủy chung",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hi vọng",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "kiên nhẫn",
+      "tự tôn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sợ hãi",
+      "tự trọng",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bám víu",
+      "van xin",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "lưu luyến",
+      "ích kỷ nhỏ nhoi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoang mang",
+      "mâu thuẫn",
+      "tự ý thức"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "khiêm nhường",
+      "lưu luyến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cô đơn",
+      "day dứt",
+      "tự trách"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hi vọng le lói",
+      "tuyệt vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoài niệm",
+      "tự tin",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "kiên cường",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bi thương",
+      "kiên định",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "chiếm hữu",
+      "nuối tiếc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "kìm nén",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nguyên tắc",
+      "tuyệt vọng",
+      "tự tôn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trưởng thành",
+      "vị tha",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bi tráng",
+      "kiên định",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua chát",
+      "hi vọng",
+      "khiêm nhường"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "chấp nhận",
+      "hiểu biết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "khiêm nhường",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "vị tha",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bám víu",
+      "hoảng sợ",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "khiêm tốn",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nuối tiếc",
+      "tự tin",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "thấu hiểu",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "can đảm",
+      "sợ hãi",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cao thượng",
+      "quan tâm",
+      "đắng cay"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "lưu luyến",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "hy sinh",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "e ngại",
+      "hi vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "cao thượng",
+      "chân thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào phóng",
+      "kiêu hãnh",
+      "tinh tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sẵn sàng",
+      "thấu hiểu",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chín chắn",
+      "giản dị",
+      "thanh thản"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên cường",
+      "sâu sắc",
+      "tự lực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bỡ ngỡ",
+      "quyết tâm",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "trưởng thành",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "lo âu",
+      "nuối tiếc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "lưu luyến",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "kiên nhẫn",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bỡ ngỡ",
+      "chấp nhận",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "chuyên nghiệp",
+      "hào phóng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lưu luyến",
+      "ngăn nắp",
+      "sẵn sàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chín chắn",
+      "thông cảm",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "khiêm tốn",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên cường",
+      "sáng suốt",
+      "tự lực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "thủy chung",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "hy sinh",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí mật",
+      "hi vọng",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "khiêm tốn",
+      "lưu luyến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "sáng tạo",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "công bằng",
+      "khôn ngoan",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hy sinh",
+      "tinh tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "khiêm tốn",
+      "nguyên tắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "khiêm nhường",
+      "ngọt ngào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "giả vờ",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "sâu sắc",
+      "thủy chung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "chấp nhận",
+      "van xin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lưu luyến",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "thông cảm",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "vị tha",
+      "đắng cay"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sáng tạo",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hi vọng",
+      "hoài nghi",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dứt khoát",
+      "khao khát",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng sợ",
+      "thành thật",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "kiên định",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình yên",
+      "nghiêm túc",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lưu luyến",
+      "mong manh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên cường",
+      "lãng mạn",
+      "thủy chung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trách nhiệm",
+      "tôn trọng",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "tinh tế",
+      "van xin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngọt ngào",
+      "tự hào",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng sợ",
+      "thành thật",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình yên",
+      "chu đáo",
+      "vị tha"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "kiên định",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "mong manh",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "nghẹn ngào",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khôn ngoan",
+      "rộng lượng",
+      "đắng cay"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "nuối tiếc",
+      "nâng niu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "thầm lặng",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "lưu luyến",
+      "tế nhị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "nghệ thuật",
+      "thanh thản"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "cao thượng",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "lãng mạn",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất diệt",
+      "nâng niu",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hi vọng",
+      "trung thực",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "chấp nhận",
+      "lưu giữ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "tinh tế",
+      "vị tha"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "dịu dàng",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghệ thuật",
+      "thanh thản",
+      "tinh tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "sâu sắc",
+      "thủy chung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình yên",
+      "giản dị",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "sáng suốt",
+      "triết lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "giản dị",
+      "mong mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất cần",
+      "hi vọng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "nguyên tắc",
+      "tự trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chua xót",
+      "hào phóng",
+      "sáng suốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết đoán",
+      "tinh tế",
+      "đau đớn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kỹ lưỡng",
+      "lãng mạn",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "nghẹn ngào",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "lưu luyến",
+      "nâng niu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tinh tế",
+      "đong đầy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chúc phúc",
+      "cố gắng",
+      "hỗn hợp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thiện chí",
+      "thận trọng",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "hy sinh",
+      "trưởng thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thành thật",
+      "vị tha",
+      "đấu tranh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "khiêm tốn",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "cởi mở",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khéo léo",
+      "nhạy cảm",
+      "xây dựng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "hợp tác",
+      "hữu ích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm nhường",
+      "tích cực",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "chân thành",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tôn trọng",
+      "tế nhị",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "khiêm tốn",
+      "tinh tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "hiểu biết",
+      "ngậm ngùi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khéo léo",
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "lạc quan",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu thị",
+      "linh hoạt",
+      "nguyên tắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "thấu hiểu",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sáng tạo",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "viên mãn",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "hạnh phúc",
+      "lo lắng nhẹ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ghen",
+      "hạnh phúc",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "hơi xấu hổ",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn nhẹ",
+      "hy vọng",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ghen",
+      "tò mò",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lo lắng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "hơi lo",
+      "hợp tác"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn",
+      "chúc phúc",
+      "luyến tiếc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "mong chờ",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "chấp nhận",
+      "hơi buồn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "ngại ngùng",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo",
+      "kính trọng",
+      "sẵn sàng thay đổi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tủi thân",
+      "vui cho họ",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất ngờ",
+      "ghen tị nhẹ",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chút buồn",
+      "hiểu chuyện",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "lo lắng",
+      "muốn giúp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "hơi tự ti",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "khéo léo",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hơi lo lắng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "vui vẻ",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "xúc động",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tuông",
+      "giật mình",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "mạnh mẽ",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "hy vọng",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tự ti",
+      "mong chờ",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hồn nhiên",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "tự tin",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "cảm động",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hào hứng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "sáng tạo",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lạc quan",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giải thích",
+      "so sánh hài hước",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "háo hức",
+      "hồi hộp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "tự tin",
+      "đảm đang"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "phấn khích",
+      "so sánh dí dỏm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thuyết phục",
+      "trách nhiệm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "sáng tạo",
+      "đồng tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bản lĩnh",
+      "cẩn trọng",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hy sinh",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hứa hẹn",
+      "nũng nịu",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "ngạc nhiên",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "thông minh",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "sắc sảo",
+      "tương tác tốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khéo léo",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "thực tế",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thuyết phục",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "lạc quan",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cam kết",
+      "nhiệt tình",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sắc sảo",
+      "tương tác tốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "khéo léo",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "cẩn thận",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "quan tâm",
+      "thuyết phục"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "phấn khích",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sâu sắc",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "hài hước",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen ảo",
+      "giật mình",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "choáng ngợp",
+      "lo xa",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "quan tâm",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tự hào",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tự hào",
+      "đổi mới"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "khéo léo",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hồn nhiên",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhân ái",
+      "thực tế",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen ảo",
+      "hợp tác",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "lãng mạn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "khéo léo",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "ngại ngùng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hợp tác",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "hài hước",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giả giận",
+      "hài hước",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết điều",
+      "dịu dàng",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "khôn khéo",
+      "tham lam giả vờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "háo hức",
+      "hồn nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sáng tạo",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khéo léo",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dí dỏm",
+      "thông minh",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhân ái",
+      "sáng tạo",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sáng tạo",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "thông minh",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí mật",
+      "hào hứng",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "khiêm tốn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "hài hước",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dí dỏm",
+      "sâu sắc",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "hào hứng",
+      "khéo léo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hăng hái",
+      "học hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "vui vẻ",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sáng tạo",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "ngọt ngào",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lãng mạn",
+      "sâu sắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lo xa",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "quan tâm",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "tế nhị",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "thông minh",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "tôn trọng",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "tiết kiệm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "lãng mạn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "trìu mến",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hỗ trợ",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "khiêm tốn",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "hữu ích",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "quan tâm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "so sánh dí dỏm",
+      "thông minh",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sáng tạo",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "quyết đoán",
+      "so sánh hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tôn trọng",
+      "tự tin",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bí mật",
+      "hồi hộp",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hào hứng",
+      "tình cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "kiên quyết",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "quyết liệt",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "dịu dàng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "tiết kiệm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "xúc động",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "do dự",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "phấn khích",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "luyến tiếc",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "sợ hãi",
+      "thành thật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bao dung",
+      "hài hước",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "ngại ngùng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng sợ",
+      "lo lắng",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngượng ngùng",
+      "tinh nghịch",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "thất vọng",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dè dặt",
+      "hồn nhiên",
+      "thích thú"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "nũng nịu",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "mơ mộng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "lo lắng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "sốc",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quan tâm",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "suy tư",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dè dặt",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "cảnh giác",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "chịu đựng",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "dịu dàng",
+      "nghiêm khắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết liệt",
+      "thương cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "ngại ngùng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "phấn khích",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "hồi hộp",
+      "đe dọa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất ngờ",
+      "dịu dàng",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngạc nhiên",
+      "tiết kiệm",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hồi tưởng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "nghi ngờ",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khẩn trương",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "lo lắng",
+      "nịnh nọt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "bực bội",
+      "cảnh giác"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài lòng",
+      "thực tế",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "trách nhiệm",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "cảnh giác",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết liệt",
+      "thất vọng",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "sợ hãi",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "đồng ý miễn cưỡng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hối lỗi",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "quan tâm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "náo nức",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "luyến tiếc",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "trách móc nhẹ",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "ngại ngùng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lo lắng",
+      "lưu luyến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cam chịu",
+      "hài hước",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tị",
+      "hờn dỗi",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cam chịu",
+      "chấp nhận",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cố gắng",
+      "hợp tác",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "lo lắng",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuẩn bị",
+      "hoảng hốt",
+      "lệ thuộc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "lo xa",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "tha thứ",
+      "tổn thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tự ti",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong đợi",
+      "sợ hãi",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "chấp nhận rủi ro",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tuông",
+      "hy sinh",
+      "yêu cầu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo sợ",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "luyến tiếc",
+      "lãng mạn",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chịu đựng",
+      "hài hước",
+      "thỏa hiệp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "nhắc nhở",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoang mang",
+      "sáng kiến",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "ngượng ngùng",
+      "tình cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gấp gáp",
+      "hài hước",
+      "luyến tiếc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "linh hoạt",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "trung tính",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "dịu dàng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tự tin",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bẽn lẽn",
+      "gợi cảm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "lo lắng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "mong manh",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nhiệt tình",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nghiêm túc",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phấn khích",
+      "vui vẻ",
+      "đam mê"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "dịu dàng",
+      "hơi ghen"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "nhiệt tình",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "tự hào",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "tiếc nuối",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "ngại ngùng",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bẽn lẽn",
+      "lãng mạn",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "nghiêm túc",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "tự hào",
+      "đảm bảo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trung tính",
+      "trấn an",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "khoe khoang",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "sáng tạo",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "trung tính",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhanh nhẹn",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "tinh nghịch",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "kiên nhẫn",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khiêm tốn",
+      "trung tính",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "trung tính",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "quan tâm",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "nghiêm túc",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "trung tính",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "tiếc nuối",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hào hứng",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "hơi buồn",
+      "mong ngóng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "lo lắng",
+      "trung tính"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quan tâm",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gắn bó",
+      "hào hứng giúp đỡ",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoang mang",
+      "trìu mến",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "quan tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "mong muốn",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "quan tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "mong đợi",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "trìu mến",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "lạc quan",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "tiếc nuối",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hao hứng",
+      "nhiệt tình",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chút ghen tị",
+      "hài hước",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lãng mạn",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hài hước",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "quan tâm",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gắn bó",
+      "hào hứng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "quan tâm",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "vui vẻ",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "ngọt ngào",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "tinh nghịch",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sáng tạo",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hữu ích",
+      "mong đợi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hữu ích",
+      "sẵn lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chút tiếc nuối",
+      "hữu ích",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "trìu mến",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hữu ích",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hào hứng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tiếc nuối",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hài hước",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lãng mạn",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "lãng mạn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "hữu ích",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "tinh nghịch",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chúc mừng",
+      "hào hứng",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "lãng mạn",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "mong muốn",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hữu ích",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoang mang",
+      "tò mò",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "mong manh",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "hy sinh",
+      "đau lòng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "ghen nhẹ",
+      "hào hứng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "khát khao",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "hào hứng",
+      "hãnh diện"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "lo lắng",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn thoáng qua",
+      "mơ mộng",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội nhẹ",
+      "dịu dàng",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chín chắn",
+      "hy sinh",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mong manh",
+      "sợ hãi",
+      "trông cậy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "kiên định",
+      "trung thành"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "cố gắng",
+      "tủi thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "gắn bó",
+      "lãng mạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hồn nhiên",
+      "rạng rỡ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "ghen nhẹ",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "mơ mộng",
+      "sâu lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quyết tâm",
+      "xót xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "khiêm tốn",
+      "trìu mến"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất an",
+      "mong manh",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "hài hước",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chút tuyệt vọng",
+      "chờ đợi",
+      "kiên trì"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thật",
+      "cảm động",
+      "hồn nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "hài hước",
+      "lo âu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "tự hào",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "dịu dàng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "lẻ loi",
+      "mong ngóng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "sâu sắc",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an nhiên",
+      "suy tư",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chân thành",
+      "khiêm tốn",
+      "nỗ lực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "nhạy cảm",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thiết tha",
+      "tò mò",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sâu lắng",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "hy vọng",
+      "ngây ngô"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "quan tâm",
+      "rộng lượng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên cường",
+      "lạc quan",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "sâu sắc",
+      "ẩn dụ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "hối hận",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "tha thiết",
+      "xót xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "thận trọng",
+      "tôn trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "lạc quan",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giấu giếm",
+      "háo hức",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "quyết tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nâng niu",
+      "rung động",
+      "trân trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "chân thành",
+      "hài hước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "khao khát",
+      "tủi thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "mãnh liệt",
+      "sâu lắng",
+      "trường tồn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "hơi lo lắng",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "mong mỏi",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "hạnh phúc",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "háo hức",
+      "hồi hộp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngượng ngùng",
+      "tin tưởng",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên định",
+      "lạc quan",
+      "ấm ức"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "mong manh",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "nhẹ nhõm",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "tập trung",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngập ngừng",
+      "trêu đùa",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tò mò",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "dỗi hờn",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "tinh ý",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hồ hởi",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e thẹn",
+      "hào hứng",
+      "đắc ý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoang mang",
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "thực tế",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối hận",
+      "ngượng ngùng",
+      "vội vàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hồi hộp",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tiếc nuối",
+      "tò mò",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "dịu dàng",
+      "hồi hộp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háo hức",
+      "lắng nghe",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "hài hước",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "muốn chuộc lỗi",
+      "ân hận",
+      "đáng thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hi vọng",
+      "khoe khoang",
+      "mong chờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "hợp tác",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "mong mỏi",
+      "tập trung"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "giả vờ giận dỗi",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chú ý chi tiết",
+      "hơi tự ti",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bướng bỉnh",
+      "kiên cường",
+      "mệt mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngạc nhiên",
+      "thích thú",
+      "đòi hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hợp tác",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "chuyên nghiệp",
+      "nhờ vả"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chấp nhận",
+      "lạc quan",
+      "ấm ức"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chỉn chu",
+      "hào hứng",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "hơi tò mò",
+      "ngượng ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên trì",
+      "tự hào",
+      "độc lập"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "háu hí",
+      "khen ngợi",
+      "tinh ý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khoa học",
+      "lãng mạn",
+      "mong mỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hạnh phúc",
+      "muốn giúp đỡ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm giúp",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi buồn",
+      "vui vẻ",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "muốn giúp đỡ",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "khuyến khích",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "muốn được cùng làm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hài hước",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "khẩn trương",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "kiên nhẫn",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có trách nhiệm",
+      "hào hứng",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội nhẹ",
+      "quyết tâm",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "muốn giúp đỡ",
+      "quan tâm",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "thông cảm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "muốn cùng làm",
+      "ngưỡng mộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "quan tâm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "hiểu biết",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "muốn giúp",
+      "nhiệt tình",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hơi ghen",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "muốn bảo vệ",
+      "thông cảm",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nhanh trí",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "hài hước",
+      "tò mò"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "kiên nhẫn",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sáng tạo",
+      "tận tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "dễ thương",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thông cảm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "muốn cùng làm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dễ thương",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "hữu ích",
+      "thông minh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "quan tâm",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "sáng tạo",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "sáng tạo",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan sát",
+      "quan tâm",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thông minh",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giải quyết vấn đề",
+      "nhanh trí",
+      "tiếc của"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "thận trọng",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "muốn giúp",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "sáng tạo",
+      "thông cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "hài hước",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội nhẹ",
+      "kiên quyết",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "khích lệ",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "hy vọng",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "tiếc nuối",
+      "tội nghiệp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "kinh tởm",
+      "lo lắng cho sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "cần giúp đỡ",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu cứu",
+      "hoảng loạn",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "quyết tâm khắc phục",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "băn khoăn",
+      "suy nghĩ logic",
+      "thử nghiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "cảnh báo",
+      "ghen tị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "sợ hãi",
+      "thương hại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng cho đồ đạc",
+      "phân vân",
+      "thương lượng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khủng hoảng",
+      "từ chối",
+      "đòi hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giận dữ",
+      "thất vọng",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "kiên nhẫn",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hành động nhanh",
+      "khẩn cấp",
+      "lo lắng cho đồ đắt tiền"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bài trừ",
+      "ghê sợ",
+      "kiên quyết"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "ngại ngùng",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất an",
+      "cầu cứu",
+      "hoảng loạn tột độ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh báo",
+      "nghiêm khắc",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e dè",
+      "hồi tưởng",
+      "thành thật"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "mất mát",
+      "tiếc của"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "ngưỡng mộ",
+      "trông cậy"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên trì",
+      "phân tích",
+      "sáng tạo giải pháp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hao phí",
+      "kinh hãi",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "chán nản",
+      "phòng ngừa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "cẩn thận",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cần an ủi",
+      "sợ hãi",
+      "yếu đuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "kinh tởm",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "cần giúp đỡ",
+      "tuyệt vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tị",
+      "hy vọng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "lo lắng",
+      "nhanh nhẹn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giận dữ",
+      "thất vọng",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khủng hoảng",
+      "kiên quyết",
+      "đòi hỏi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "kiên nhẫn",
+      "tức giận"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng loạn",
+      "hành động nhanh",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngạc nhiên",
+      "rút kinh nghiệm",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "kinh hãi",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối hận",
+      "quyết tâm",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dũng cảm",
+      "lo lắng",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lưỡng lự",
+      "nhân từ",
+      "thương hại"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "khẩn trương",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "chu đáo",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "kinh tởm",
+      "ngại ngùng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "chịu trách nhiệm",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "tiếc nuối",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "chuyên nghiệp",
+      "xấu hổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bế tắc",
+      "ghê sợ",
+      "hoảng loạn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn cười",
+      "lo lắng",
+      "ngạc nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bất lực",
+      "cầu cứu",
+      "hoảng sợ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồ hởi",
+      "sẵn sàng giúp đỡ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiết kiệm",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo cho tài chính của user",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tự tin",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hạnh phúc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "hy sinh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sẵn sàng giúp",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ user",
+      "nhiệt tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng tài chính",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều user",
+      "dễ thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hạnh phúc",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý tích cực",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "nghiêm túc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ quyền lợi user",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội nhẹ (khi nói về lag)",
+      "thiết thực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiết kiệm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm khắc nhẹ",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "quan tâm chất lượng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gần gũi",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ user",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hỗ trợ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng nhẹ",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "tư vấn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo cho sức khỏe",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gần gũi",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảm động",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "hăng hái"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoài niệm",
+      "nâng niu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiết kiệm",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "lo lắng",
+      "sốt ruột"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hành động",
+      "quan tâm",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "thiết thực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gắt gỏng",
+      "quan tâm sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chút",
+      "nũng nịu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết đoán",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hăng hái",
+      "tiếc của"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tò mò",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồi hộp",
+      "mong chờ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "quyết liệt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "chủ động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "lo lắng sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "hi vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hồn nhiên",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình tĩnh",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhanh nhẹn",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "hoảng hốt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thông cảm",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết tâm",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết liệt",
+      "sợ hãi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "dịu dàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tỉ mỉ",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhanh nhẹn",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn thận",
+      "khẩn trương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bình tĩnh",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khẩn trương",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên quyết",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dằn vặt",
+      "thèm muốn",
+      "trách móc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "ghen tị"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bối rối",
+      "tinh nghịch",
+      "đỏ mặt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "quản lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghi ngờ",
+      "quan tâm sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm lo",
+      "sốt sắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nghiêm túc",
+      "quản lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giằng co",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiết kiệm",
+      "đồng tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "diễn kịch",
+      "tủi thân"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thèm muốn",
+      "tự kiềm chế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quyết đoán",
+      "quản lý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thích thú",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "giằng co",
+      "thèm muốn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "quan tâm sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "đồng tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tị",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiều chuộng",
+      "dịu dàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sốt sắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy vọng",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "quan tâm sức khỏe"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tị",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "sốt sắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tinh nghịch",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tị",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực bội",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "đồng tình"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "đáng yêu",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngại ngùng",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "đảm đang"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm",
+      "trấn an"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "hồn hậu",
+      "lạc quan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "buồn bã",
+      "chăm sóc",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "hỗn loạn",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gợi ý",
+      "lãng mạn",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "hào hứng",
+      "phấn khích"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "lo lắng",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hứng thú",
+      "tự hào",
+      "đùa vui"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "yêu thương",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "an ủi",
+      "dịu dàng",
+      "đau khổ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "tiếc nuối",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chữa lành",
+      "quyến rũ",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lãng mạn",
+      "mong chờ",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm chỉ",
+      "thực tế",
+      "đảm đang"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "kiên định",
+      "ấm áp"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "quyết tâm",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "mơ mộng",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "băn khoăn",
+      "cầu tiến",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "tự tin",
+      "viễn cảnh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hữu ích",
+      "sáng tạo",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "vui vẻ",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "lo lắng",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh giả vờ",
+      "hài hước",
+      "lo lắng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "quyết tâm",
+      "yêu nước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phấn khích",
+      "đáng yêu",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kinh doanh",
+      "sáng tạo",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "hỗ trợ",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiếc nuối",
+      "đáng thương",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khôn ngoan",
+      "quyết tâm",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cầu tiến",
+      "lo xa",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "biết ơn",
+      "hào hứng",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "kinh doanh",
+      "đam mê"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo thủ",
+      "lo lắng",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khôn ngoan",
+      "thông cảm",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "quan tâm",
+      "thích nghi"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "lạc quan",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tiếc nuối",
+      "tự hào",
+      "yêu nước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "kinh doanh",
+      "nhờ vả"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiếu học",
+      "hào hứng",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hối lỗi",
+      "quyết tâm",
+      "yêu nước"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thực tế",
+      "trấn an",
+      "đảm đang"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cải tiến",
+      "học hỏi",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ngây thơ",
+      "so sánh",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "trách nhiệm",
+      "tự hào",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "tiết kiệm",
+      "vui mừng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "kinh doanh",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "ngây thơ",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khôn ngoan",
+      "thực tế",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "nhiệt tình",
+      "trách nhiệm",
+      "vui vẻ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quan tâm",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "luyến tiếc",
+      "quyết tâm",
+      "yêu thương"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "trấn an",
+      "đảm đang"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "hy sinh",
+      "đáng yêu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kinh doanh",
+      "sáng tạo",
+      "tiếc nuối"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thực tế",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "e ngại",
+      "hài hước",
+      "ngây thơ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ích kỷ",
+      "đáng yêu",
+      "đắn đo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "nghiêm túc",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hờn dỗi",
+      "lo xa",
+      "tinh nghịch"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "nghiêm khắc",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "sốt sắng",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dịu dàng",
+      "kiên nhẫn",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "thận trọng",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "quyết liệt",
+      "tin tưởng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hứa hẹn",
+      "ngượng ngùng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "lạc quan",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chu đáo",
+      "hào hứng",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gắn kết",
+      "nghiêm túc",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "nghiêm khắc",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cẩn trọng",
+      "hỗ trợ",
+      "trách nhiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "thực tế",
+      "đắn đo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sốt sắng",
+      "tích cực",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "thực tế",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thấu hiểu",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "hài hước",
+      "tỉnh táo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hướng dẫn",
+      "kiên định",
+      "lý trí"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "hoảng sợ",
+      "xúc động"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "khích lệ",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "dỗ dành",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "góp ý",
+      "hướng dẫn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiềm chế",
+      "sáng tạo",
+      "sốc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "nguyên tắc",
+      "đồng ý"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "trấn an",
+      "vội vàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chia sẻ",
+      "hăng hái",
+      "nhân văn"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "sáng tạo",
+      "tích cực"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "cảnh giác",
+      "quyết đoán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "tận tâm",
+      "ân cần"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sáng tạo",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khuyên nhủ",
+      "thực tế",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "nhiệt tình",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo vệ",
+      "cảnh báo",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "quyết tâm",
+      "đồng cảm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "kiên nhẫn",
+      "thuyết phục"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "sẵn lòng",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sáng tạo",
+      "thấu hiểu"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hỗ trợ",
+      "khách quan",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hợp tác",
+      "thực tế",
+      "động viên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kiên nhẫn",
+      "sáng tạo",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hiểu biết",
+      "nhiệt tình",
+      "sẵn sàng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "thấu hiểu",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "am hiểu",
+      "quan tâm",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "khích lệ",
+      "lạc quan",
+      "tự hào"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi trách móc",
+      "lo lắng",
+      "quyết tâm giúp đỡ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "có lỗi",
+      "hy sinh",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi tự ti",
+      "ngại ngùng",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "gắn kết",
+      "háo hức",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi ích kỷ",
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm lo",
+      "cảnh giác",
+      "vui sướng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo thủ",
+      "bực bội",
+      "kinh doanh"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "ghen tuông",
+      "kiểm soát",
+      "đùa cợt"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lạc quan",
+      "phấn khích",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "nghiêm khắc",
+      "thất vọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi xấu hổ",
+      "hợp tác",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "quan tâm",
+      "trách nhẹ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hoảng hốt",
+      "hy sinh",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "dỗi hờn",
+      "lo lắng",
+      "quyết tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bảo thủ",
+      "hoài niệm",
+      "sáng tạo"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tận tâm",
+      "tỉnh táo",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "bực mình",
+      "hài hước",
+      "nghiêm khắc"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hài hước",
+      "thực tế",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "hào hứng",
+      "ngạc nhiên"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "choáng váng",
+      "chủ động",
+      "rút kinh nghiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "thực tế",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "tính toán",
+      "tỉ mỉ",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cảnh giác",
+      "lo lắng",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chín chắn",
+      "suy tính",
+      "thận trọng"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "thực dụng",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hơi lo",
+      "nghiêm túc",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chuyên nghiệp",
+      "cẩn trọng",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm sức khỏe",
+      "thực tế",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thận trọng",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hy sinh",
+      "thông cảm",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phân vân",
+      "thực tế",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "hào hứng",
+      "tiết kiệm",
+      "tự tin"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "thận trọng",
+      "tính toán"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "sáng tạo",
+      "thuyết phục",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiến lược",
+      "cảnh giác",
+      "kinh nghiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "kinh nghiệm",
+      "lo xa",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "phân tích",
+      "quan tâm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chăm sóc",
+      "quyết tâm",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thận trọng",
+      "thực tế",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân bằng",
+      "giáo dục",
+      "khôn ngoan"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "tính toán",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chủ động",
+      "hỗ trợ",
+      "tỉ mỉ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo xa",
+      "phân tích",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "cân nhắc",
+      "thực tế",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "quan tâm",
+      "sáng tạo",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiến lược",
+      "cảnh giác",
+      "lo xa"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "thận trọng",
+      "tính toán",
+      "ủng hộ"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "phân tích",
+      "sáng tạo",
+      "thực tế"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "lo lắng",
+      "quyết đoán",
+      "tiết kiệm"
+    ],
+    "count": 1
+  },
+  {
+    "state": [
+      "chiến lược",
+      "cẩn trọng",
+      "kiên nhẫn"
+    ],
+    "count": 1
+  }
+]
