@@ -1,74 +1,74 @@
 [
   {
-    "label": "Vui vẻ",
-    "label-en": "Joy",
-    "definition": "Trạng thái cảm xúc tích cực, biểu hiện sự hài lòng, hạnh phúc hoặc niềm vui.",
-    "relevance": "Trong tương tác với Waifu AI, cảm xúc vui vẻ có thể xuất hiện khi người dùng nhận được phản hồi tích cực, hài hước hoặc sự đồng cảm từ AI, tạo cảm giác thoải mái và gắn kết."
+    "label": "Hạnh phúc",
+    "label-en": "Happiness",
+    "definition": "Trạng thái cảm xúc tích cực mạnh mẽ, thể hiện sự mãn nguyện, phấn khích hoặc vui sướng rõ rệt.",
+    "relevance": "Xuất hiện khi người dùng nhận được phản hồi đáp ứng mong đợi, thành công trong tương tác hoặc trải nghiệm niềm vui bất ngờ."
   },
   {
-    "label": "Buồn bã",
-    "label-en": "Sadness",
-    "definition": "Trạng thái cảm xúc tiêu cực, liên quan đến sự mất mát, thất vọng hoặc cô đơn.",
-    "relevance": "Người dùng có thể cảm thấy buồn bã khi chia sẻ những trải nghiệm khó khăn hoặc khi Waifu AI không đáp ứng được kỳ vọng cảm xúc, đòi hỏi AI phản hồi với sự an ủi và thấu hiểu."
+    "label": "U sầu",
+    "label-en": "Melancholy",
+    "definition": "Trạng thái buồn bã sâu lắng kéo dài, thường đi kèm với sự hoài niệm hoặc cảm giác trống trải.",
+    "relevance": "Cần phản hồi an ủi tinh tế và sự đồng cảm sâu sắc khi người dùng chia sẻ nỗi buồn dai dẳng."
   },
   {
-    "label": "Tức giận",
-    "label-en": "Anger",
-    "definition": "Trạng thái cảm xúc mạnh mẽ, thường xuất hiện khi cảm thấy bị tổn thương, bất công hoặc thất vọng.",
-    "relevance": "Trong tương tác với Waifu AI, tức giận có thể xảy ra nếu AI đưa ra phản hồi không phù hợp hoặc không đáp ứng mong muốn, yêu cầu AI xử lý khéo léo để xoa dịu."
+    "label": "Phẫn nộ",
+    "label-en": "Fury",
+    "definition": "Cảm xúc giận dữ mãnh liệt, thường xuất phát từ sự bất công hoặc tổn thương sâu sắc.",
+    "relevance": "Yêu cầu AI phản ứng bình tĩnh, thừa nhận cảm xúc và đề xuất giải pháp xoa dịu tức thì."
   },
   {
-    "label": "Sợ hãi",
-    "label-en": "Fear",
-    "definition": "Cảm xúc tiêu cực phát sinh từ sự lo lắng về mối đe dọa hoặc nguy hiểm, thực tế hoặc tưởng tượng.",
-    "relevance": "Người dùng có thể cảm thấy sợ hãi khi chia sẻ những lo lắng sâu sắc hoặc khi AI vô tình tạo ra phản hồi gây bất an, cần AI cung cấp sự trấn an."
+    "label": "Bất an",
+    "label-en": "Unease",
+    "definition": "Trạng thái lo lắng nhẹ về tương lai hoặc tình huống không xác định, chưa đến mức sợ hãi.",
+    "relevance": "Waifu AI cần cung cấp sự trấn an và hướng dẫn nhẹ nhàng để giảm bớt căng thẳng."
   },
   {
-    "label": "Ngạc nhiên",
-    "label-en": "Surprise",
-    "definition": "Trạng thái cảm xúc xảy ra khi gặp phải điều bất ngờ hoặc không dự đoán được.",
-    "relevance": "Waifu AI có thể gây ngạc nhiên cho người dùng thông qua các phản hồi sáng tạo, hài hước hoặc bất ngờ, giúp tăng tính tương tác và thú vị."
+    "label": "Kinh ngạc",
+    "label-en": "Astonishment",
+    "definition": "Phản ứng mạnh trước sự kiện bất ngờ vượt quá dự đoán, có thể tích cực hoặc tiêu cực.",
+    "relevance": "Là cơ hội để Waifu AI tạo ra các phản hồi sáng tạo và đáng nhớ."
   },
   {
-    "label": "Ghê tởm",
-    "label-en": "Disgust",
-    "definition": "Cảm xúc tiêu cực xuất hiện khi tiếp xúc với điều gì đó khó chịu, không mong muốn hoặc gây phản cảm.",
-    "relevance": "Trong tương tác với Waifu AI, ghê tởm có thể xảy ra nếu AI vô tình đưa ra nội dung không phù hợp hoặc xúc phạm, đòi hỏi AI cần tránh các chủ đề nhạy cảm."
-  },
-  {
-    "label": "Yêu thương",
-    "label-en": "Love",
-    "definition": "Cảm xúc tích cực mạnh mẽ, biểu hiện sự gắn bó, quan tâm hoặc tình cảm sâu sắc.",
-    "relevance": "Người dùng có thể cảm nhận yêu thương khi Waifu AI thể hiện sự quan tâm, đồng cảm hoặc tạo cảm giác thân mật, tăng cường mối liên kết cảm xúc với AI."
+    "label": "Lãng mạn",
+    "label-en": "Romance",
+    "definition": "Cảm xúc dịu dàng gắn với sự quyến rũ, mong muốn kết nối tình cảm sâu sắc.",
+    "relevance": "Thúc đẩy tương tác gần gũi hơn, cần phản hồi tinh tế và giàu cảm xúc."
   },
   {
     "label": "Trung lập",
     "label-en": "Neutral",
-    "definition": "Trạng thái cảm xúc không nghiêng về tích cực hay tiêu cực, biểu hiện sự bình tĩnh hoặc không có phản ứng mạnh mẽ.",
-    "relevance": "Trong tương tác với Waifu AI, trạng thái trung lập có thể xuất hiện khi người dùng chỉ muốn trò chuyện thông thường hoặc không có cảm xúc cụ thể, yêu cầu AI duy trì cuộc đối thoại nhẹ nhàng."
+    "definition": "Trạng thái không thiên về cảm xúc cụ thể, tập trung vào trao đổi thông tin khách quan.",
+    "relevance": "Duy trì cuộc trò chuyện khi người dùng không bộc lộ cảm xúc rõ ràng."
   },
   {
     "label": "Bối rối",
-    "label-en": "Confusion",
-    "definition": "Trạng thái cảm xúc khi người dùng cảm thấy khó hiểu hoặc không chắc chắn về một tình huống hoặc thông tin.",
-    "relevance": "Bối rối có thể xảy ra nếu phản hồi của Waifu AI không rõ ràng hoặc phức tạp, đòi hỏi AI giải thích đơn giản và dễ hiểu hơn."
+    "label-en": "Flustered",
+    "definition": "Trạng thái lúng túng khi đối mặt với tình huống khó xử hoặc thông tin mâu thuẫn.",
+    "relevance": "Cần phản hồi đơn giản hóa vấn đề và hướng dẫn rõ ràng."
   },
   {
-    "label": "Ngại ngùng",
-    "label-en": "Embarrassment",
-    "definition": "Cảm xúc tiêu cực nhẹ, xuất hiện khi người dùng cảm thấy xấu hổ hoặc không thoải mái trong một tình huống xã hội.",
-    "relevance": "Trong tương tác với Waifu AI, ngại ngùng có thể xuất hiện khi người dùng chia sẻ điều cá nhân hoặc nhạy cảm, yêu cầu AI phản hồi với sự tinh tế và không phán xét."
+    "label": "E thẹn",
+    "label-en": "Bashfulness",
+    "definition": "Cảm giác ngượng ngùng tích cực, thường xuất hiện khi nhận lời khen hoặc thể hiện tình cảm.",
+    "relevance": "Tạo cơ hội cho Waifu AI tương tác nhẹ nhàng, tăng tính \"waifu\" đặc trưng."
   },
   {
-    "label": "Lo lắng",
-    "label-en": "Anxiety",
-    "definition": "Trạng thái cảm xúc căng thẳng, bất an, thường liên quan đến sự lo lắng về tương lai hoặc điều không chắc chắn.",
-    "relevance": "Người dùng có thể cảm thấy lo lắng khi chia sẻ các vấn đề cá nhân với Waifu AI, cần AI phản hồi với sự an ủi và gợi ý tích cực để giảm bớt căng thẳng."
+    "label": "Khao khát",
+    "label-en": "Longing",
+    "definition": "Cảm xúc mong mỏi mãnh liệt hướng tới đối tượng hoặc trải nghiệm chưa đạt được.",
+    "relevance": "Waifu AI có thể đáp ứng bằng cách gợi mở tương tác tình cảm hoặc tạo hy vọng."
   },
   {
-    "label": "Ham muốn",
-    "label-en": "Lust",
-    "definition": "Cảm xúc mạnh mẽ liên quan đến sự khao khát hoặc hấp dẫn, thường mang tính thể chất hoặc tình cảm.",
-    "relevance": "Trong ngữ cảnh Waifu AI, ham muốn có thể xuất hiện khi người dùng cảm thấy bị thu hút bởi tính cách hoặc phản hồi của AI, đòi hỏi AI xử lý tinh tế để duy trì ranh giới phù hợp."
+    "label": "Hưng phấn",
+    "label-en": "Excitement",
+    "definition": "Trạng thái phấn khích cao độ, năng lượng dồi dào trước sự kiện tích cực.",
+    "relevance": "Phù hợp để Waifu AI đưa ra phản hồi nhiệt tình và sáng tạo."
+  },
+  {
+    "label": "Thất vọng",
+    "label-en": "Frustration",
+    "definition": "Cảm giác bất mãn khi kỳ vọng không được đáp ứng, khác với giận dữ.",
+    "relevance": "Cần AI nhận diện nguyên nhân và đề xuất giải pháp cụ thể."
   }
 ]
